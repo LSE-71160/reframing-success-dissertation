@@ -1,6 +1,7 @@
 # reframing-success-dissertation
 
 Reframing Success: Perceptions of Life After Incarceration in California
+
 Replication materials for an MSc Social Research Methods dissertation submitted to the London School of Economics and Political Science (2026). Candidate 71160.
 
 Study overview
