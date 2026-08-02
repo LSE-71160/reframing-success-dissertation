@@ -15,7 +15,8 @@ Diss_Survey_Analysis.R: R script for all quantitative analyses including ANOVA, 
 Survey_Instrument.pdf: PDF version of the full survey instrument displaying all three vignette conditions for transparency purposes. Note that in the actual survey, participants were randomly assigned to one condition and saw only that version.
 
 Survey instrument:
-The full survey instrument including all three vignette conditions, attention check, and outcome measures can also be viewed online at: https://lse.eu.qualtrics.com/jfe/preview/previewId/e2574b79-6fdc-489e-b739-ad3a5a8f023a/SV_1RgtYBe29ib7Ypw?Q_CHL=preview&Q_SurveyVersionID=
+The full survey instrument including all three vignette conditions, attention check, and outcome measures can also be viewed online at: 
+https://lse.eu.qualtrics.com/jfe/preview/previewId/e2574b79-6fdc-489e-b739-ad3a5a8f023a/SV_1RgtYBe29ib7Ypw?Q_CHL=preview&Q_SurveyVersionID=current
 
 Requirements:
 R version 4.0 or higher. The following packages are required: tidyverse, ggplot2, MASS, emmeans, car.
